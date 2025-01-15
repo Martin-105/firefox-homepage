@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Stepik',
-			icon: 'todo',
+			icon: 'trello',
 			link: 'https://stepik.org',
 		},
 		{
